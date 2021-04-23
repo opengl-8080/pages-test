@@ -1,0 +1,3 @@
+[submodule "docs/v1.0"]
+	path = docs/v1.0
+	url = git@github.com:opengl-8080/pages-test.git
