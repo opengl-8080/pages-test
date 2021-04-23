@@ -7,3 +7,6 @@
 [submodule "LATEST"]
 	path = docs/LATEST
 	url = https://github.com/opengl-8080/pages-test.git
+[submodule "v3.0"]
+	path = docs/v3.0
+	url = https://github.com/opengl-8080/pages-test.git
