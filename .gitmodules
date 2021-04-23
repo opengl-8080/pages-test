@@ -4,3 +4,6 @@
 [submodule "v2.0"]
 	path = docs/v2.0
 	url = https://github.com/opengl-8080/pages-test.git
+[submodule "LATEST"]
+	path = docs/LATEST
+	url = https://github.com/opengl-8080/pages-test.git
